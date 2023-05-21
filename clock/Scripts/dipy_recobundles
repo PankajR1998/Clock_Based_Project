@@ -1,0 +1,7 @@
+#!D:\Learning\Python\Project\alarm\clock\Scripts\python.exe
+
+from dipy.workflows.flow_runner import run_flow
+from dipy.workflows.segment import RecoBundlesFlow
+
+if __name__ == "__main__":
+    run_flow(RecoBundlesFlow())

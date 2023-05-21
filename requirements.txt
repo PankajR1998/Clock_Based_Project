@@ -1,0 +1,5 @@
+datetime
+playsound==1.2.2
+emoji
+tkinter-page
+TIME-python
